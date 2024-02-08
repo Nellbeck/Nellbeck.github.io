@@ -45,7 +45,7 @@ function App() {
                     element={<Index />}
                 />
                 <Route
-                    path="/FirstReactApp"
+                    path="/"
                     element={<Index />}
                 />
                 <Route
