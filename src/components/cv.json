@@ -1,0 +1,75 @@
+{
+    "experiance":
+    [
+        {
+            "titel": "Vikariernade Lärare",
+            "companyName": "Hudiksvall Kommun",
+            "date": "2010-2012"
+        },
+        {
+            "titel": "Byggarbetare",
+            "companyName": "Pentab",
+            "date": "2013-2015"
+        },
+        {
+            "titel": "Saneringstekninker",
+            "companyName": "Ocab",
+            "date": "2016"
+        },
+        {
+            "titel": "Byggarbetare",
+            "companyName": "BMT",
+            "date": "2016-2017"
+        },
+        {
+            "titel": "Byggarbetare",
+            "companyName": "PP Mark och Bygg",
+            "date": "2017-2018"
+        },
+        {
+            "titel": "Byggarbetare",
+            "companyName": "Stegs Trä och Bygg",
+            "date": "2018-2021"
+        },
+        {
+            "titel": "Projektör / Arbetsledare",
+            "companyName": "Energihem",
+            "date": "2021"
+        },
+        {
+            "titel": "Byggarbetare / Arbetsledare",
+            "companyName": "Stenarö Bygg och Betong",
+            "date": "2021-2023"
+        }
+    ],
+    "course":[
+            {
+                    "courseName": "Samhälle, Ekonomi",
+                    "schoolName": "Bromangymnasiet",
+                    "courseDate": "2006-2009"
+            },
+            {
+                    "courseName": "Träarbete",
+                    "schoolName": "Komvux(CuL)",
+                    "courseDate": "2012-2013"
+            },
+            {
+                    "courseName": "Systemutvecklare .NET",
+                    "schoolName": "Edugrade",
+                    "courseDate": "2023-(pågår)"
+            }],
+            "other":[
+                {
+                    "otherInfo1": "A-körkort",
+                
+                
+                    "otherInfo2": "B-körkort",
+                
+                
+                    "otherInfo3": "Truck-kort"
+                }
+                
+            
+    ]
+}
+
