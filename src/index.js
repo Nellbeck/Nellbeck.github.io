@@ -7,13 +7,7 @@ import index from "./webbpages/index";
 
 const root = ReactDOM.createRoot(document.getElementById('app'));
 root.render(
-    <>
         <App />
-        <h1>
-            Denna React App är ett pågående project.
-            Kom tillbaka med jämna mellanrum för att se hur den utvecklas.
-        </h1>
-    </>
 
 );
 
