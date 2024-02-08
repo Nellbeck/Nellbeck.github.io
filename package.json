@@ -1,7 +1,7 @@
 {
   "name": "first_react",
   "version": "0.1.0",
-  "homepage": "https://nellbeck.github.io/FirstReactApp",
+  "homepage": "https://nellbeck.github.io/index",
   "private": true,
   "dependencies": {
     "-": "^0.0.1",
