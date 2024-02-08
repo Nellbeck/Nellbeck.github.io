@@ -41,7 +41,7 @@ function App() {
             <Sidebar />
             <Routes>
                 <Route
-                    path="/FirstReactApp"
+                    path="/"
                     element={<Index />}
                     
                 />
