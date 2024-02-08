@@ -3,11 +3,15 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import index from "./webbpages/index";
 
 const root = ReactDOM.createRoot(document.getElementById('app'));
 root.render(
+        <>
         <App />
+        <h1>
+                Denna sida är under uppbyggnad.
+        </h1>
+        </>
 
 );
 
