@@ -41,9 +41,12 @@ function App() {
             <Sidebar />
             <Routes>
                 <Route
-                    path="/"
+                    path="https://nellbeck.github.io/FirstReactApp"
                     element={<Index />}
-                    
+                />
+                <Route
+                    path="/FirstReactApp"
+                    element={<Index />}
                 />
                 <Route
                     path="/index"
