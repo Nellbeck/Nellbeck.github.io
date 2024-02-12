@@ -412,3 +412,6 @@ form
     color:transparent;
     user-select: none;
   }
+  .active {
+    color: green;
+  }

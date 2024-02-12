@@ -1,12 +1,11 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import * as FaIcons from "react-icons/fa";
 import * as AiIcons from "react-icons/ai";
 import SubMenu from "./SubMenus";
 import { IconContext } from "react-icons/lib";
 import { SidebarData } from "./SidebarDatas";
-
  
 const Nav = styled.div`
     background: #15171c;
@@ -17,7 +16,7 @@ const Nav = styled.div`
     width: 100%;
 `;
  
-const NavIcon = styled(Link)`
+const NavIcon = styled(NavLink)`
     margin-left: 2rem;
     font-size: 2rem;
     height: 80px;
@@ -43,10 +42,10 @@ const SidebarWrap = styled.div`
     width: 100%;
 `;
  
-
 const Sidebar = () => {
     const [sidebar, setSidebar] = useState(false);
     const showSidebar = () => setSidebar(!sidebar);
+
     return (
         <>
             <IconContext.Provider value={{ color: "#fff" }}>
