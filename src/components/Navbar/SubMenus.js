@@ -18,12 +18,10 @@ const SidebarLink = styled(NavLink)`
 		border-left: 4px solid green;
 		cursor: pointer;
 	}
-	&:focus {
+	
+	&.active {
 		color: green;
 	}
-	&:active (
-		color: green;
-	)
 `;
 
 const SidebarLabel = styled.span`
@@ -41,7 +39,6 @@ const SubMenu = ({ item }) => {
 			<SidebarLink
 				to={item.path}
 				onClick={item.subNav && showSubnav}
-				activeClassName=""
 			>
 				<div>
 					{item.icon}

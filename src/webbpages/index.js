@@ -1,8 +1,6 @@
 import React from "react";
-import NamePage from "../components/NamePage";
 
 const Home = () => {
-    <NamePage name="Startsida" />
     return (
         <div>
             <div className="home">

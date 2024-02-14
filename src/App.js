@@ -13,7 +13,7 @@ import Glines from "./webbpages/glines";
 import Index from "./webbpages/index";
 
 function App() {
-    
+
     //easter egg that will show up when the "konami-code" is pushed in the right order.
     var pattern = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a'];
     var current = 0;
