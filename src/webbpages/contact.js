@@ -23,20 +23,24 @@ const Contact = () => {
                     <img src={image} alt="Bild på skog mitt i vintern." />
                 </p>
             </section>
-            <form action="SendEmail.php" id="form" name="form" method="post">
-
-                Namn:<br />
-                <input type="text" name="namn" class="name" required/> <br />
+                    <main class="contact-me">
                 
-                E-postadress:<br />
-                <input type="email" name="epost" class="epost" required/> <br />
-                
-                Meddelande:<br />
-                <textarea name="meddelande" class="meddelande" cols="45" rows="5"></textarea> <br />
-                
-                <input type="submit" name="skicka" id="skicka" value="Skicka" />
-                
-                </form>
+                    <h2> <a class="mail-box" href="mailto:nellbeckfredrik@gmail.com">Maila mig!</a></h2> <br />
+                    <p> Du kanske är lite mer oldschool och vill skicka ett brev så finns min brevlåda på: <br />
+                    <div class="box">
+                            Fredik Nellbeck <br />
+                            Länsmansvägen 15 <br />
+                            82595 Enånger
+                    </div>
+                    <br />
+                    
+                    Vem vet, du kanske vill ringa och prata med min röstbrevlåda?<br />
+                    Han kan du nå på: 
+                    <div class="tele-box">
+                        073 060 77 95
+                    </div>
+                    </p>
+            </main>
                 
         </main>
         </body>

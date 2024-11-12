@@ -414,3 +414,21 @@ form
   .active {
     color: green;
   }
+  .contact-me 
+{
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: rgb(130, 197, 202);
+    box-shadow: 5px 5px 5px black;
+    padding: 16px;
+}
+.mail-box 
+{
+  padding-left: 9em;
+  color: #000000;
+  
+}
+.mail-box:hover 
+{
+  color:white;
+}
