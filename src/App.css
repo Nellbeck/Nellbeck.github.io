@@ -224,11 +224,11 @@ form
 .box
 {
     background-color: rgb(221, 252, 227);
-    float: left;
-    margin: 1em 7em 1em 8.5em;
-    padding: 10px 50px;
-    text-align: center;
-    height: 95px;
+    margin: auto;
+    margin-top: 1em;
+    padding: 10px 10px;
+    text-align:center;
+    height: 115px;
     width: 200px;
     border: 3px solid black;
     border-radius: 10px;
@@ -236,9 +236,11 @@ form
 .tele-box
 {
     background-color: rgb(221, 252, 227);
-    margin:1em 10em 2em 11.5em;
+    margin:auto;
+    margin-bottom: 1em;
+    margin-top: 1em;
     text-align: center;
-    height: 30px;
+    height: 35px;
     width: 200px;
     border: 3px solid black;
     border-radius: 10px;
@@ -416,6 +418,7 @@ form
   }
   .contact-me 
 {
+  text-align: center;
     border: 3px solid black;
     border-radius: 10px;
     background-color: rgb(130, 197, 202);
@@ -424,7 +427,6 @@ form
 }
 .mail-box 
 {
-  padding-left: 9em;
   color: #000000;
   
 }

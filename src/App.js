@@ -1,7 +1,7 @@
 import "./App.css";
 import Sidebar from "./components/Navbar/Sidebars";
 import {
-    BrowserRouter as Router,
+    HashRouter as Router,
     Routes,
     Route,
 } from "react-router-dom";
@@ -40,10 +40,6 @@ function App() {
         <Router>
             <Sidebar />
             <Routes>
-                <Route
-                    path="https://nellbeck.github.io/FirstReactApp"
-                    element={<Index />}
-                />
                 <Route
                     path="/"
                     element={<Index />}

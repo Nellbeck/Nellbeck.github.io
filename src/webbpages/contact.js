@@ -23,24 +23,23 @@ const Contact = () => {
                     <img src={image} alt="Bild på skog mitt i vintern." />
                 </p>
             </section>
-                    <main class="contact-me">
+                    <section className="contact-me">
                 
-                    <h2> <a class="mail-box" href="mailto:nellbeckfredrik@gmail.com">Maila mig!</a></h2> <br />
-                    <p> Du kanske är lite mer oldschool och vill skicka ett brev så finns min brevlåda på: <br />
-                    <div class="box">
+                    <h2> <a className="mail-box" href="mailto:nellbeckfredrik@gmail.com">Maila mig!</a></h2> <br />
+                    <p> Du kanske är lite mer oldschool och vill skicka ett brev så finns min brevlåda på:</p> 
+                    <div className="box">
                             Fredik Nellbeck <br />
                             Länsmansvägen 15 <br />
                             82595 Enånger
                     </div>
                     <br />
-                    
+                    <p>
                     Vem vet, du kanske vill ringa och prata med min röstbrevlåda?<br />
                     Han kan du nå på: 
-                    <div class="tele-box">
+                    <div className="tele-box">
                         073 060 77 95
-                    </div>
-                    </p>
-            </main>
+                    </div></p>
+            </section>
                 
         </main>
         </body>
