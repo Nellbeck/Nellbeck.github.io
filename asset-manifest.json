@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.38cb3469.css",
-    "main.js": "/static/js/main.8bbfd4f6.js",
-    "static/js/488.7742202d.chunk.js": "/static/js/488.7742202d.chunk.js",
-    "static/media/20231204_112533.jpg": "/static/media/20231204_112533.78a8d91ddfdb10503de6.jpg",
-    "static/media/20231007_212925.jpg": "/static/media/20231007_212925.ffb633e48574d62dd3c2.jpg",
-    "static/media/20231128_124224.jpg": "/static/media/20231128_124224.fd22e7efba78b0915bad.jpg",
-    "static/media/ZKZg.gif": "/static/media/ZKZg.90672f1deffccbcdf4f1.gif",
-    "index.html": "/index.html",
-    "main.38cb3469.css.map": "/static/css/main.38cb3469.css.map",
-    "main.8bbfd4f6.js.map": "/static/js/main.8bbfd4f6.js.map",
-    "488.7742202d.chunk.js.map": "/static/js/488.7742202d.chunk.js.map"
+    "main.css": "/Nellbeck.github.io/static/css/main.38cb3469.css",
+    "main.js": "/Nellbeck.github.io/static/js/main.5a91c6be.js",
+    "static/js/488.7742202d.chunk.js": "/Nellbeck.github.io/static/js/488.7742202d.chunk.js",
+    "static/media/20231204_112533.jpg": "/Nellbeck.github.io/static/media/20231204_112533.78a8d91ddfdb10503de6.jpg",
+    "static/media/20231007_212925.jpg": "/Nellbeck.github.io/static/media/20231007_212925.ffb633e48574d62dd3c2.jpg",
+    "static/media/20231128_124224.jpg": "/Nellbeck.github.io/static/media/20231128_124224.fd22e7efba78b0915bad.jpg",
+    "static/media/ZKZg.gif": "/Nellbeck.github.io/static/media/ZKZg.90672f1deffccbcdf4f1.gif",
+    "index.html": "/Nellbeck.github.io/index.html",
+    "main.38cb3469.css.map": "/Nellbeck.github.io/static/css/main.38cb3469.css.map",
+    "main.5a91c6be.js.map": "/Nellbeck.github.io/static/js/main.5a91c6be.js.map",
+    "488.7742202d.chunk.js.map": "/Nellbeck.github.io/static/js/488.7742202d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38cb3469.css",
-    "static/js/main.8bbfd4f6.js"
+    "static/js/main.5a91c6be.js"
   ]
 }
